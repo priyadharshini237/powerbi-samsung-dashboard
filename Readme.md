@@ -40,7 +40,7 @@ Some interesting findings from the dashboard:
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](.powerbi_projects/samsung_dashboard_analysis.jpg)
+![Dashboard Preview](./powerbi_projects/samsung%20dashboard%20analysis.jpg)
 
 ---
 
