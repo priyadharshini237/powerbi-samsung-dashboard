@@ -40,7 +40,7 @@ Some interesting findings from the dashboard:
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](./samsung/samsung%20dashboard%20analysis.jpg)
+![Dashboard](./samsung/samsung_dashboard_analysis.jpg)
 
 ---
 
