@@ -37,10 +37,7 @@ Some interesting findings from the dashboard:
 - Data Cleaning in Power Query
 - Data Visualization & DAX measures
 
----
 
-## 📷 Dashboard Preview
-![Dashboard](./samsung/samsung_dashboard_analysis.jpg)
 
 ---
 
